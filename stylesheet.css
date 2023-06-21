@@ -29,7 +29,7 @@ h1 {
 
 /* Subnav button */
 .subnav .subnavbtn {
-  font-size: 20px;
+  font-size: 10px;
   border: none;
   outline: none;
   color: #000000;
@@ -39,7 +39,7 @@ h1 {
   margin: 0;
 }
 
-/* Add a red background color to navigation links on hover */
+/* Add a background color to navigation links on hover */
 .navbar a:hover, .subnav:hover .subnavbtn, a:hover {
   background-color: #d19bab;
 }
@@ -57,6 +57,7 @@ h1 {
 /* Style the subnav links */
 .subnav-content a {
   float: left;
+  font-size: 10px;
   color: #000000;
   text-decoration: none;
 }
