@@ -56,14 +56,14 @@ h1 {
 /* Style the subnav links */
 .subnav-content a {
   float: left;
-  color: white;
+  color: #000000;
   text-decoration: none;
 }
 
 /* Add a grey background color on hover */
 .subnav-content a:hover {
-  background-color: #eee;
-  color: black;
+  background-color: #d1697a;
+  color: #000000;
 }
 
 /* When you move the mouse over the subnav container, open the subnav content */
