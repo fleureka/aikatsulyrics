@@ -10,6 +10,15 @@ h1 {
   background-color: #e7cbd3;
 }
 
+.navbar input[type=text] {
+  float: right;
+  padding: 5px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 20px;
+}
+
 /* Navigation links */
 .navbar a, a {
   float: left;
